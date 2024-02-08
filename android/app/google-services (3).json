@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14940081236",
+    "project_id": "loginauth-f019b",
+    "storage_bucket": "loginauth-f019b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14940081236:android:665d5a17fb1a5b4ed1f1c1",
+        "android_client_info": {
+          "package_name": "com.example.loginpagewithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQmyB4fsAJ9ijoFY4WI_fuyzzL_29tcd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
